@@ -1,4 +1,4 @@
-# Library Management System using C
+# Library Management System Development using C++
 ### Main functions				
   1. Add:
       - Add the data of a book, including ISBN, book title, author(s), publisher, year of publication, and quantity (the number of copies of the same book).
